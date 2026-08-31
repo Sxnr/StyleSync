@@ -1,4 +1,4 @@
-# [Nombre del Proyecto]
+# [StyleSync]
 
 Aplicación móvil y web orientada a revolucionar la experiencia de compra de vestuario. Mediante el análisis de datos físicos, colorimetría y preferencias personales, el sistema recomienda atuendos que fortalecen la seguridad del usuario. La plataforma se conecta directamente con inventarios de grandes tiendas para promover un consumo inteligente, asegurando que cada compra sea rentable y no acumule polvo en el armario. Proyecto de Arquitectura de Desarrollo.
 

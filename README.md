@@ -19,7 +19,7 @@ Transforma tus datos físicos, preferencias y colorimetría en atuendos perfecto
 
 ## 🧭 ¿Qué es StyleSync?
 
-> **El problema:** Comprar ropa impulsivamente basándose solo en maniquíes o tendencias pasajeras suele resultar en prendas que no favorecen al usuario, generando inseguridad y armarios llenos de ropa sin usar.
+> **El problema:** [En replantimiento!]
 >
 > **La solución StyleSync:** Un sistema que analiza las medidas, tono de piel y gustos del usuario para cruzar esta información con el catálogo real de grandes distribuidoras. La app recomienda únicamente atuendos (outfits) de alta compatibilidad, garantizando una compra rentable y un aumento en la confianza personal.
 

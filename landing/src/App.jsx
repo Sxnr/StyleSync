@@ -1,8 +1,8 @@
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
-import ProblemSection from './components/ProblemSection'
+import UserPainSection from './components/UserPainSection'
 import SolutionSection from './components/SolutionSection'
-import B2BSection from './components/B2BSection'
+import CommunitySection from './components/CommunitySection'
 import CTASection from './components/CTASection'
 import Footer from './components/Footer'
 
@@ -11,9 +11,9 @@ export default function App() {
     <div className="min-h-screen bg-pearl">
       <Navbar />
       <Hero />
-      <ProblemSection />
+      <UserPainSection />
       <SolutionSection />
-      <B2BSection />
+      <CommunitySection />
       <CTASection />
       <Footer />
     </div>
